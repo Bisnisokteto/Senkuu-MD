@@ -102,9 +102,9 @@ module.exports = {
            { buttonId: `.ping`,buttonText:{displayText: 'Speed'}, type : 1}
            ]
         const buttonMessage = {
-           image: {url: "https://telegra.ph/file/642a95448d0d2d4750a37.jpg"},
+           image: {url: "https://telegra.ph/file/915b6ff0ddf1f7d145880.jpg"},
            caption: menu,
-           footer: "Bot Masih dalam tahap Perkembangan",
+           footer: "Bot Masih dalam tahap Perkembangan, tunggu next update dari owner >///<",
            buttons: buttons,
            headerType: 1,
            withTag: true
